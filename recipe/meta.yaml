@@ -60,6 +60,7 @@ outputs:
         - opencv
         - pillow
         - pyopengl
+        - greenlet
       test:
         imports:
           - salabim
